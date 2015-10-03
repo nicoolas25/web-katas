@@ -1,7 +1,5 @@
 # URL Shortener
 
-This is kind of a classic.
-
 The URL shortener creates a token from an URL. This token allows other users to
 access the original URL passing through the shortner.
 
