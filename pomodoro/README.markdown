@@ -8,7 +8,7 @@ in order to be in sync, avoid interrupting each other and share breaks.
 **Starting a session**
 
 * `POST /`
-* Redirects (302) the user to a session path
+* Redirects (302) the client to a session path
 
 **Displaying a session**
 
